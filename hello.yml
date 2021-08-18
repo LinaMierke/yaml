@@ -1,0 +1,5 @@
+person: 
+  - name: Lina
+    age : 31
+hobbies: ["work","study", "read","hiking"] 
+
